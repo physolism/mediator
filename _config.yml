@@ -51,6 +51,8 @@ social:
     share_title:
     share_link:
 
+gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
+
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
